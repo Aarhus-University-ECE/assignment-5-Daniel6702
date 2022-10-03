@@ -4,6 +4,7 @@
 
 void fiveCircles(circle c[]) {
 /*post: returns an array with five circles - solution to 6.b*/
+	//HEJ
 }
 
 int circleIsValid(const circle * c) {
