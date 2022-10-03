@@ -33,6 +33,7 @@ int main(void) {
 		printf("it is a Jolly Jumper");}
 	else {
 		printf("not a Jolly Jumper");}
+	
 	return 0;
 
 }
